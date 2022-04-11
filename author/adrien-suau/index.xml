@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrien Suau | QuantUM Research Group</title>
+    <link>https://quantumontpellier.github.io/author/adrien-suau/</link>
+      <atom:link href="https://quantumontpellier.github.io/author/adrien-suau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrien Suau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quantumontpellier.github.io/author/adrien-suau/avatar_huc6d5ce48d98830bd685a04b2aeabfd73_815833_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Adrien Suau</title>
+      <link>https://quantumontpellier.github.io/author/adrien-suau/</link>
+    </image>
+    
+    <item>
+      <title>QuantUM website is online!</title>
+      <link>https://quantumontpellier.github.io/event/22-04-11-website-online/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/event/22-04-11-website-online/</guid>
+      <description>&lt;p&gt;This is the first event on this website! Stay tuned for more updates!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New website is officially launched!</title>
+      <link>https://quantumontpellier.github.io/post/21-09-01-website-live/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/post/21-09-01-website-live/</guid>
+      <description>&lt;p&gt;The new QuantUM website is now officially online and can be viewed by everyone on the Internet!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical Quantum Computing: Solving the Wave Equation Using a Quantum Approach</title>
+      <link>https://quantumontpellier.github.io/publication/21-02-10-wave-equation-solver/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/publication/21-02-10-wave-equation-solver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hardware-Aware Heuristic for the Qubit Mapping Problem in the NISQ Era</title>
+      <link>https://quantumontpellier.github.io/publication/20-09-24-qubit-mapping/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/publication/20-09-24-qubit-mapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

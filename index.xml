@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QuantUM Research Group</title>
+    <link>https://quantumontpellier.github.io/</link>
+      <atom:link href="https://quantumontpellier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>QuantUM Research Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://quantumontpellier.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>QuantUM Research Group</title>
+      <link>https://quantumontpellier.github.io/</link>
+    </image>
+    
+    <item>
+      <title>QuantUM website is online!</title>
+      <link>https://quantumontpellier.github.io/event/22-04-11-website-online/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/event/22-04-11-website-online/</guid>
+      <description>&lt;p&gt;This is the first event on this website! Stay tuned for more updates!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New website is officially launched!</title>
+      <link>https://quantumontpellier.github.io/post/21-09-01-website-live/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/post/21-09-01-website-live/</guid>
+      <description>&lt;p&gt;The new QuantUM website is now officially online and can be viewed by everyone on the Internet!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical Quantum Computing: Solving the Wave Equation Using a Quantum Approach</title>
+      <link>https://quantumontpellier.github.io/publication/21-02-10-wave-equation-solver/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/publication/21-02-10-wave-equation-solver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hardware-Aware Heuristic for the Qubit Mapping Problem in the NISQ Era</title>
+      <link>https://quantumontpellier.github.io/publication/20-09-24-qubit-mapping/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/publication/20-09-24-qubit-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://quantumontpellier.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://quantumontpellier.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://quantumontpellier.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://quantumontpellier.github.io/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://quantumontpellier.github.io/tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
